@@ -1,0 +1,7 @@
+# Python virtual environment.
+env/
+venv/
+pyenv/
+
+# Distribution files.
+dist/
